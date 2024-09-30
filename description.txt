@@ -1,6 +1,6 @@
 
 You are playing in a BETA version.
 
-This is not the final version of the Abismo modpack and the server is only available to whitelisted players at the moment.
+This is not the final version of the Abismo modpack and the server is only available to admins at the moment.
 
 (Having trouble with the modpack? Open a ticket on Discord support!)
