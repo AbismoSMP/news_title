@@ -1,7 +1,7 @@
 
-Welcome to the first season of Abismo!
-Are you ready to embark on this incredible journey?
+You are playing in a BETA version.
 
-Prepare your ticket and board the train to Luminaris.
+This is not the final version of the Abismo modpack 
+and the server is only available to whitelisted players at the moment.
 
 (Having trouble with the modpack? Open a ticket on Discord support!)
