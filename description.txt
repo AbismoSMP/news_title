@@ -1,249 +1,172 @@
-Finally, the server will open to everyone on **January 16th, 2025**.
-Thank you so much for your patience.
-We hope you all have fun.  
-
-_- With love, Abismo Team_
-
-Message from the technical team:
-Hey everyone,
-We’ve been working super hard here at the Abyss team to bring you something awesome.
-We’ve fixed a ton of bugs, but we know there’s always more to tackle.
-Unfortunately, it’s impossible to get everything 100% perfect.
-As you play, you might run into some bugs.
-If you do, please hit us up by opening a ticket.
-Your help means a lot and makes a big difference in making the server even better!
-Thanks for being part of our community!
-
-**#Abismo**
-
-
-Technical changes:
-
-**Removed Mods:**
-
-Chisel Chipped Integration
-
-VideoPlayer
-
-**Added Mods:**
-
-Advancement Plaques
-
-Another Furniture
-
-Basically Signs
-
-Cerbons API
-
-Chisel
-
-Cluttered
-
-Cold Sweat
-
-Compact Machines
-
-Dimension Access Manager
-
-Farmer's Cutting: Regions Unexplored
-
-Furnitury (The new Reeve furniture)
-
-Iceberg
-
-Kotlin for Forge
-
-Lightman's Currency
-
-Lightman's Currency Tech
-
-MOA DECOR: SCIENCE
-
-Macaw's Bridges
-
-MissingPaletteFix
-
-More Signs
-
-Oculus
-
-Regions Unexplored
-
-Scholar
-
-Structure Essentials mod
-
-Talk Balloons
-
-Tanuki Decor
-
-Tetranomicon
-
-UnityTranslate (Disabled by default)
-
-**Updated Mods:**
-(some mods don't match, as they were corrected before the changelog(only this part))
-
-Advanced Peripherals: 0.7.40r -> 0.7.41r
-
-Alex's Caves: 2.0.0 -> 2.0.2
-
-Amendments: 1.20-1.2.12 -> 1.20-1.2.14
-
-Armourer's Workshop: 3.0.0-beta.21 -> 3.1.3-beta
-
-Balm: 7.3.9 -> 7.3.11
-
-Biomes O' Plenty: 19.0.0.91 -> 19.0.0.94
-
-Biomes O'Plenty Delight: 1.0.2.1-1.20.1 -> 1.1.0-1.20.1
-
-Born in Chaos: 1.0.0 -> 1.6.2
-
-Botania Delight: 1.0.3-1.20.1 -> 1.0.3.3-1.20.1
-
-CC: Tweaked: 1.113.1 -> 1.114.2
-
-Camera Mod: 1.20.1-1.0.14 -> 1.20.1-1.0.19
-
-Cataclysm Mod: 2.13 -> 2.37
-
-Chat Heads: 0.13.3 -> 0.13.7
-
-Citadel: 2.6.0 -> 2.6.1
-
-Compact Machines 5: 20.1.1 -> 6.0.3
-
-Connectivity Mod: 1.20.1-5.6 -> 1.20.1-6.5
-
-Corpse: 1.20.1-1.0.17 -> 1.20.1-1.0.19
-
-CraftTweaker: 14.0.43 -> 14.0.48
-
-CraterLib: 2.1.1 -> 2.1.2+hotfix.1
-
-Create: 0.5.1.i -> 0.5.1.j
-
-Create: Framed: 1.5.3 -> 1.5.5
-
-Create: Steam 'n' Rails: 1.6.6+forge-mc1.20.1 -> 1.6.7+forge-mc1.20.1
-
-CreateTweaker: 4.0.12 -> 4.0.13
-
-CreativeCore: 2.12.17 -> 2.12.28
-
-Curios API: 5.10.0+1.20.1 -> 5.11.1+1.20.1
-
-Customizable Player Models: 0.6.19a -> 0.6.19b
-
-Decorative Storage: 2.0710 -> 2.1212
-
-Deeper Darker Delight: 1.0.2.1-1.20.1 -> 1.1.2.1-1.20.1
-
-Deeper and Darker: 1.3.2 -> 1.3.3
-
-Doggy Talents Next: 1.18.29 -> 1.18.38
-
-Dungeons Enhanced: 5.2.2 -> 5.3.0
-
-Dynamic FPS: 3.7.3 -> 3.7.7
-
-Easy NPC: 5.7.1 -> 5.9.0
-
-Elevator Mod: 1.20.1-1.9 -> 1.20.1-lex-1.9
-
-EntityCulling: 1.7.0 -> 1.7.2
-
-FTB Chunks: 2001.3.1 -> 2001.3.4
-
-FTB Library: 2001.2.4 -> 2001.2.7
-
-Farmer's Delight: 1.20.1-1.2.4 -> 1.20.1-1.2.6
-
-Framework: 0.7.11 -> 0.7.12
-
-Friends & Foes: 3.0.5 -> 3.0.6
-
-Fusion: 1.1.1 -> 1.2.2
-
-GeckoLib 4: 4.4.9 -> 4.7
-
-ImmediatelyFast: 1.2.21+1.20.4 -> 1.3.3+1.20.4
-
-Immersive Aircraft: 1.1.2+1.20.1 -> 1.1.8+1.20.1
-
-Iron's Spells 'n Spellbooks: 1.20.1-3.4.0.2 -> 1.20.1-3.4.0.7
-
-Jade: 11.12.1+forge -> 11.12.2+forge
-
-Just Enough Items: 15.20.0.104 -> 15.20.0.106
-
-Knight Lib: 1.0.2 -> 1.2.0
-
-Knight Quest: 1.7.3-forge -> 1.8.2
-
-LionfishAPI: 1.9 -> 2.4-Fix
-
-Lootr: 0.7.34.85 -> 0.7.35.90
-
-Mahou Tsukai: 1.20.1-v1.34.74 -> 1.20.1-v1.34.78
-
-Mekanism: 10.4.9 -> 10.4.13
-
-Mekanism: Generators: 10.4.9 -> 10.4.13
-
-Mekanism: Weapons: 1.5 -> 2.5
-
-ModernFix: 5.19.4+mc1.20.1 -> 5.20.0+mc1.20.1
-
-Moonlight Library: 1.20-2.13.13 -> 1.20-2.13.48
-
-MrCrayfish's Furniture Mod: Refurbished: 1.0.6 -> 1.0.8
-
-NotEnoughAnimations: 1.7.6 -> 1.9.0
-
-Oculus: 1.7.0 -> 1.8.0
-
-Packet Fixer: 1.4.2 -> 1.4.3
-
-PlayerRevive: 2.0.27 -> 2.0.31
-
-Polymorph: 0.49.5+1.20.1 -> 0.49.8+1.20.1
-
-Puzzles Lib: 8.1.24 -> 8.1.25
-
-Quad: 1.2.5 -> 1.2.9
-
-SecurityCraft: 1.9.11 -> 1.9.12
-
-ShadowizardLib: 1.20.1-1.2.0 -> 1.20.1-1.2.2
-
-Simple Voice Chat: 1.20.1-2.5.24 -> 1.20.1-2.5.27
-
-Sophisticated Backpacks: 3.20.11.1115 -> 3.22.1.1167
-
-Sophisticated Core: 0.6.34.718 -> 1.1.2.834
-
-Sophisticated Storage: 0.10.45.912 -> 1.1.4.1021
-
-Supplementaries: 1.20-2.8.17 -> 1.20-3.1.11
-
-Supplementaries Squared: 1.20-1.1.15 -> 1.20-1.1.18
-
-Torchmaster: 20.1.8 -> 20.1.9
-
-WaterFrames: 2.1.6 -> 2.1.9
-
-WaterMedia: 2.0.75 -> 2.1.13
-
-Waystones: 14.1.5 -> 14.1.6
-
-[Let's Do] Furniture: 1.0.3 -> 1.0.4
-
-[Let's Do] Vinery: 1.4.28 -> 1.4.36
-
-recipeessentials mod: 1.20.1-3.6 -> 1.20.1-3.9
-
-tetra: 6.4.0 -> 6.7.0
-
-tetracelium: 1.3.0 -> 1.3.1
+### Changelog 22/03/2025
+
+#### Added mods:
+- Addons Lib **[1.20.1-1.3]**
+- All The Leaks **[0.1.2-beta+1.20.1-forge]**
+- Apothic Attributes **[1.3.7]**
+- Artifacts **[9.5.14]**
+- BadOptimizations **[2.2.1]**
+- Better Third Person **[1.9.0]**
+- Bountiful **[6.0.4+1.20.1]**
+- Chat Translator **[1.3.22]**
+- Chloride **[1.5.4]**
+- Client Reset Packet **[0.0.6]**
+- Clumps **[12.0.0.4]**
+- Collective **[7.94]**
+- Colorful Hearts **[4.3.16]**
+- Cryonic Config **[1.0.0+mc1.20.1]**
+- Decocraft **[3.0.0.9-beta-1.20.1]**
+- Emojiful **[4.2.0]**
+- Exposure **[1.7.10]**
+- ExtraBounties **[1.3.1]**
+- Fallingleaves **[2.1.2]**
+- Farsight mod **[1.20.1-3.7]**
+- Fzzy Config **[0.6.6+1.20.1+forge]**
+- Improved Sign Editing **[1.5]**
+- Kambrik **[6.1.1+1.20.1]**
+- Macaw's Biomes O' Plenty **[1.20.1-1.1]**
+- Moderately Enough Effect Descriptions **[3.3.0]**
+- Not Enough Crashes **[4.4.7+1.20.1]**
+- Not Enough Recipe Book **[0.4.1]**
+- Particle Core **[0.2.5+1.20.1+forge]**
+- RAR-Compat **[0.1.7]**
+- RSInfinityBooster **[1.20.1-1.0+41]**
+- Refined Polymorphism **[0.1.1-1.20.1]**
+- Refined Storage Dupe Fixed **[1.12.5]**
+- Ribbits **[1.20.1-Forge-3.0.4]**
+- Save My Shit Network **[1.1.4+mc1.20.1]**
+- Sodium Dynamic Lights **[1.0.9]**
+- Sodium Options API **[1.0.10]**
+- Sound Physics Remastered **[1.20.1-1.4.8]**
+- Spit It Out **[1.0.1]**
+- T.O Magic 'n Extras **[4.4.0-1.20.1]**
+- Trash Cans **[1.0.18b]**
+- TrashSlot **[15.1.2]**
+- VideoPlayer **[3.1.0]**
+- [Let's Do] BloomingNature **[1.0.12]**
+- betterfpsdist mod **[1.20.1-6.0]**
+
+#### Removed mods:
+- AchievementOptimizer **[1.0.5]**
+- Biomes O'Plenty Delight **[1.1.0.1-1.20.1]**
+- Boat Break Fix **[1.0.2]**
+- Botania Delight **[1.0.3.4-1.20.1]**
+- Cold Sweat **[2.3.8]**
+- Compact Machines **[6.0.3]**
+- Cull Less Leaves Reforged **[1.20.1-1.0.5]**
+- Deeper Darker Delight **[1.1.2.1-1.20.1]**
+- DoesPotatoTick **[1.20.1-4.0.2]**
+- Drippy Loading Screen **[3.0.9]**
+- Dungeons Enhanced **[5.3.0]**
+- Dungeons and Taverns **[3.0.3.f]**
+- Explorify **[1.6.2]**
+- FTBQuestsOptimizer **[2.0.5-1.20.1]**
+- Falling Leaves **[2.1.0]**
+- Fast Leaf Decay **[32]**
+- Fast Suite **[5.0.1]**
+- Fast Workbench **[8.0.4]**
+- FastFurnace **[8.0.2]**
+- Faster Ladder Climbing **[0.2.10]**
+- Freecam **[1.2.1+1.20]**
+- Hidden Names **[1.20.1-1.0.5]**
+- Just Hammers **[2.0.3+mc1.20.1]**
+- Krypton Reforged **[0.2.3]**
+- Laendli Transport **[1.7.6]**
+- LevelTextFix **[7.0.2]**
+- LibreExpFix **[0.2.7b14-BETA]**
+- Majrusz Library **[7.0.8]**
+- Majrusz's Progressive Difficulty **[1.9.10]**
+- Moog's Voyager Structures **[4.1.4-1.20-forge]**
+- Structure Essentials mod **[1.20.1-3.4]**
+- Too Fast **[0.4.3.5]**
+- Walkie-Talkie **[1.3.0]**
+- When Dungeons Arise **[2.1.58-1.20.x]**
+- When Dungeons Arise: Seven Seas **[1.0.2]**
+- Yeetus Experimentus **[2.3.1-build.6+mc1.20.1]**
+- leaky mod **[1.20.1-2.1]**
+
+#### Updated mods:
+- Advancement Plaques **[1.6.7]** -> **[1.6.9]**
+- Amendments **[1.20-1.2.14]** -> **[1.20-1.2.19]**
+- Armourer's Workshop **[3.1.3-beta]** -> **[3.2.0-beta]**
+- Balm **[7.3.11]** -> **[7.3.20]**
+- Biomes O' Plenty **[19.0.0.94]** -> **[19.0.0.95]**
+- Born in Chaos **[1.6.2]** -> **[1.6.3]**
+- Botania **[1.20.1-446-FORGE]** -> **[1.20.1-447-FORGE]**
+- CC: Tweaked **[1.114.2]** -> **[1.115.0]**
+- Cataclysm Mod **[2.38]** -> **[2.60]**
+- Chisel Reborn **[1.8.0]** -> **[2.0.0+mc1.20.1]**
+- Coffee Delight **[1.4]** -> **[1.6]**
+- Connectivity Mod **[1.20.1-6.5]** -> **[1.20.1-7.1]**
+- Corpse **[1.20.1-1.0.19]** -> **[1.20.1-1.0.20]**
+- CraftTweaker **[14.0.49]** -> **[14.0.57]**
+- CraterLib **[2.1.2+hotfix.1]** -> **[2.1.3]**
+- Create: Copycats+ **[2.1.4+mc.1.20.1-forge]** -> **[2.2.2+mc.1.20.1-forge]**
+- CreateTweaker **[4.0.13]** -> **[4.0.15]**
+- CreativeCore **[2.12.28]** -> **[2.12.31]**
+- Curios API **[5.11.1+1.20.1]** -> **[5.12.1+1.20.1]**
+- Customizable Player Models **[0.6.19b]** -> **[0.6.21a]**
+- Decorative Storage **[3.0401-forge-1.20.1]** -> **[3.1603-forge-1.20.1]**
+- Doggy Talents Next **[1.18.39]** -> **[1.18.44]**
+- Dynamic FPS **[3.7.7]** -> **[3.9.0]**
+- FancyMenu **[3.3.2]** -> **[3.4.6]**
+- Farmer's Delight **[1.20.1-1.2.6]** -> **[1.20.1-1.2.7]**
+- FTB Chunks **[2001.3.4]** -> **[2001.3.5]**
+- FTB Library **[2001.2.7]** -> **[2001.2.9]**
+- FTB Quests **[2001.4.9]** -> **[2001.4.12]**
+- FTB Teams **[2001.3.0]** -> **[2001.3.1]**
+- Friends&Foes **[3.0.6]** -> **[3.0.8]**
+- Furnitury **[2.0201-forge-1.20.1]** -> **[2.1203-forge-1.20.1]**
+- Fusion **[1.2.2]** -> **[1.2.5]**
+- GeckoLib 4 **[4.7]** -> **[4.7.1.1]**
+- HammerLib **[20.1.44]** -> **[20.1.48]**
+- ImmediatelyFast **[1.3.3+1.20.4]** -> **[1.5.0+1.20.4]**
+- Immersive Aircraft **[1.1.8+1.20.1]** -> **[1.2.2+1.20.1]**
+- Immersive Melodies **[0.3.0+1.20.1]** -> **[0.4.0+1.20.1]**
+- Integrated API **[1.5.1+1.20.1-forge]** -> **[1.5.2+1.20.1-forge]**
+- Integrated Dungeons and Structures **[1.10.3+1.20.1]** -> **[1.11.1+1.20.1]**
+- Jade **[11.12.2+forge]** -> **[11.13.1+forge]**
+- Just Zoom **[2.0.0]** -> **[2.1.1]**
+- Knight Quest **[1.8.2]** -> **[1.8.5]**
+- Ksyxis **[1.3.2]** -> **[1.3.3]**
+- Lightman's Currency **[1.20.1-2.2.4.1c]** -> **[1.20.1-2.2.4.5]**
+- Lightman's Currency Tech **[1.20.1-0.2.1.13]** -> **[1.20.1-0.2.1.15a]**
+- Macaw's Doors **[1.1.1]** -> **[1.1.2]**
+- Mekanism **[10.4.13]** -> **[10.4.15]**
+- Mekanism: Generators **[10.4.13]** -> **[10.4.15]**
+- MmmMmmMmmmmm **[1.20-2.0.2]** -> **[1.20-2.0.6]**
+- Modern Life **[1.20.1-1.69]** -> **[1.20.1-1.74]**
+- ModernFix **[5.20.0+mc1.20.1]** -> **[5.20.2+mc1.20.1]**
+- Moonlight Library **[1.20-2.13.49]** -> **[1.20-2.13.79]**
+- MrCrayfish's Furniture Mod: Refurbished **[1.0.8]** -> **[1.0.12]**
+- Naturalist **[4.0.3]** -> **[5.0pre2]**
+- NotEnoughAnimations **[1.9.0]** -> **[1.9.2]**
+- OctoLib **[0.4.2]** -> **[0.5.0.1]**
+- Packet Fixer **[1.4.3]** -> **[2.0.0]**
+- Patchouli **[1.20.1-84-FORGE]** -> **[1.20.1-84.1-FORGE]**
+- Placebo **[8.6.2]** -> **[8.6.3]**
+- Puzzles Lib **[8.1.25]** -> **[8.1.29]**
+- Quark **[4.0-460]** -> **[4.0-461]**
+- Refined Storage **[1.12.4]** -> **[1.12.5]**
+- Resourcefulconfig **[2.1.2]** -> **[2.1.3]**
+- Scholar **[1.0.0]** -> **[1.1.2]**
+- ShadowizardLib **[1.20.1-1.2.2]** -> **[1.20.1-1.2.5]**
+- Simple Voice Chat **[1.20.1-2.5.27]** -> **[1.20.1-2.5.28]**
+- Sophisticated Backpacks **[3.22.1.1167]** -> **[3.23.6.1211]**
+- Sophisticated Core **[1.1.3.835]** -> **[1.2.23.902]**
+- Sophisticated Storage **[1.1.5.1025]** -> **[1.3.9.1075]**
+- Supplementaries **[1.20-3.1.11]** -> **[1.20-3.1.18]**
+- Supplementaries Squared **[1.20-1.1.18]** -> **[1.20-1.1.21]**
+- Talk Balloons **[1.0.0]** -> **[1.1.5]**
+- TerraBlender **[3.0.1.7]** -> **[3.0.1.10]**
+- Tetranomicon **[1.5.3-1.20.1]** -> **[1.6.1-1.20.1]**
+- tetra **[6.7.0]** -> **[6.8.0]**
+- WaterFrames **[2.1.9]** -> **[2.1.12]**
+- WaterMedia **[2.1.13]** -> **[2.1.22]**
+- Waystones **[14.1.6]** -> **[14.1.11]**
+- Zeta **[1.0-24]** -> **[1.0-28]**
+- [Let's Do] Beachparty **[1.1.5]** -> **[2.0.0]**
+- [Let's Do] HerbalBrews **[1.0.8]** -> **[1.0.11]**
+- [Let's Do] Meadow **[1.3.19]** -> **[1.3.24]**
+- [Let's Do] Vinery **[1.4.36]** -> **[1.4.39]**
+- recipeessentials mod **[1.20.1-3.9]** -> **[1.20.1-4.0]**
